@@ -9,4 +9,4 @@ class EmailAddressParser
     @parse = parse
   end
   def parse
-    @parse 
+    @parse.split
